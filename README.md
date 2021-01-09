@@ -1,1 +1,1 @@
-# numpy
+# activate quick learning protocol
